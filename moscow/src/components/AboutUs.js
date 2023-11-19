@@ -10,7 +10,7 @@ const Experience = () => (
   <Fragment>
     <div className="resume-card-header">
       <div className="resume-card-name">
-        <i className="fa fa-briefcase" /> Expertise In
+        <i className="fa fa-briefcase" /> Expertise Inn
       </div>
     </div>
     {/* Experience Header Title Ends */}
